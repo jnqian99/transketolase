@@ -4,8 +4,6 @@ James Qian
 
 <jnqian@sfu.ca>
 
-Simon Fraser University
-
 The 1TRK Transketolase under investigation in this paper is obtained
 from Saccharomyces cerevisiae at 2.0 A resolution. Transketolase is an
 enzyme that plays a key role in the pentose phosphate pathway, which is
@@ -53,15 +51,11 @@ side chains are on the side facing the interior of the protein.
 
 Reference
 
-Summary Information,
-[*https://www.rcsb.org/structure/1TRK*](https://www.rcsb.org/structure/1TRK)
-, Protein Data Bank
+1. Summary Information, [*https://www.rcsb.org/structure/1TRK*](https://www.rcsb.org/structure/1TRK), Protein Data Bank
 
-Nikkola M, Lindqvist Y, Schneider G. *Refined structure of transketolase
+2. Nikkola M, Lindqvist Y, Schneider G. *Refined structure of transketolase
 from Saccharomyces cerevisiae at 2.0 A resolution.* Journal of Molecular
 Biology. 1994 May;238(3):387-404. DOI: 10.1006/jmbi.1994.1299. PMID:
 8176731.
 
-4
-
-The PyMOL Molecular Graphics System, Version 2.0 Schrödinger, LLC.
+3. The PyMOL Molecular Graphics System, Version 2.0 Schrödinger, LLC.
