@@ -51,11 +51,11 @@ side chains are on the side facing the interior of the protein.
 
 Reference
 
-1. Summary Information, [*https://www.rcsb.org/structure/1TRK*](https://www.rcsb.org/structure/1TRK), Protein Data Bank
+Summary Information, [*https://www.rcsb.org/structure/1TRK*](https://www.rcsb.org/structure/1TRK), Protein Data Bank
 
-2. Nikkola M, Lindqvist Y, Schneider G. *Refined structure of transketolase
+Nikkola M, Lindqvist Y, Schneider G. *Refined structure of transketolase
 from Saccharomyces cerevisiae at 2.0 A resolution.* Journal of Molecular
 Biology. 1994 May;238(3):387-404. DOI: 10.1006/jmbi.1994.1299. PMID:
 8176731.
 
-3. The PyMOL Molecular Graphics System, Version 2.0 Schrödinger, LLC.
+The PyMOL Molecular Graphics System, Version 2.0 Schrödinger, LLC.
